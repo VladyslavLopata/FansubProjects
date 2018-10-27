@@ -18,8 +18,8 @@ YCbCr Matrix: TV.709
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,verdana,45,&H00FFFFFF,&H000000A7,&H000000A7,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,55,55,40,204
 Style: Satsuriku Opening Rus,Crash,45,&H000B0887,&H000000FF,&H00F3F3F3,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-Style: Satsuriku ED Rus,Crash,40,&H00FFFFFF,&H000000FF,&H00000000,&H93000000,-1,0,0,0,100,100,0,0,1,5,1,1,10,10,10,1
-Style: Signs,Bahnschrift Light,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Satsuriku ED Rus,Crash,40,&H00FFFFFF,&H000000FF,&H00000000,&H93000000,0,0,0,0,100,100,0,0,1,5,1,1,10,10,10,1
+Style: Signs,Bahnschrift Light,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: A,Monotype Corsiva,22,&HAFFFFFFF,&HFFFAFAFC,&HFFF7F7FB,&HFFF9F9FC,0,0,0,0,100,100,0,0,1,0,0,9,60,160,86,1
 
 [Events]
