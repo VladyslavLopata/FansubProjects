@@ -11,9 +11,8 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Fairy Tail
-Audio File: work_raw.mkv
-Video File: work_raw.mkv
-Keyframes File: Fairy Tail (2018) - 298 VOSTFR [1080p]_keyframes.log
+Audio File: ../../Workaround/Fairy Tail/EP21/work_raw2.mkv
+Video File: ../../Workaround/Fairy Tail/EP21/work_raw2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -308,6 +307,8 @@ Dialogue: 10,0:23:34.81,0:23:38.26,Default,,0,0,0,,А тем временем у
 Dialogue: 10,0:23:38.26,0:23:40.94,Default,,0,0,0,,принёс другой член Дюжины.
 Dialogue: 10,0:23:41.90,0:23:44.35,Default,,0,0,0,,Следующая серия: «возрождённый Нацу»!
 Dialogue: 10,0:23:45.20,0:23:48.61,Default,,0,0,0,,Надежда и решимость рассеют отчаянье.
+Dialogue: 0,0:01:28.90,0:01:32.69,OP,,0,0,0,,{\c&H64A9DA&\blur0.6}Мы с вами проходили через трудные времена
+Dialogue: 1,0:01:28.90,0:01:32.69,OP,,0,0,0,,{\bord0\4a&HFF&\blur0.6}Мы с вами проходили через трудные времена
 Dialogue: 0,0:01:32.86,0:01:37.87,OP,,0,0,0,,{\c&H64A9DA&\blur0.6}Изменим игру – вы научили меня важным вещам
 Dialogue: 1,0:01:32.86,0:01:37.87,OP,,0,0,0,,{\bord0\4a&HFF&\blur0.6}Изменим игру – вы научили меня важным вещам
 Dialogue: 0,0:01:39.08,0:01:44.83,OP,,0,0,0,,{\c&H64A9DA&\blur0.6}Что трудно сделать одному, нужно делать вместе
