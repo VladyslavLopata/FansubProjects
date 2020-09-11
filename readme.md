@@ -1,1 +1,1 @@
-**Субтитры на все случаи жизни**
+Collection of [mostly] EN-RU translations of various anime.
